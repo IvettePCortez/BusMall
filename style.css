@@ -1,0 +1,25 @@
+* {
+  color: red;
+  outline: orange dashed;
+  background-color: lavender;
+}
+
+h1 {
+  color: purple;
+  weight: bold;
+  text-align: center;
+}
+img {
+  display: inline-block;
+  width:270px;
+  height: 270px;
+  margin: 10px;
+}
+
+section {
+  display: inline-block;
+}
+
+button {
+
+}
